@@ -10,7 +10,7 @@ struct Particle {
     color: Color,
 }
 
-#[macroquad::main("BasicShapes")]
+#[macroquad::main("Particle System")]
 async fn main() {
     let radius = 2.0;
 
